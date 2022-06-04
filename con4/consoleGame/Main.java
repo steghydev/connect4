@@ -5,7 +5,7 @@ import con4.consoleUtil.*;
 import con4.saves.SaveManager;
 
 /**
- * This class contains the main method to run the force 4 console program.
+ * This class contains the main method to run the Connect 4 console program.
  * The arguments that are entered on the command line are organized using 
  * the static ArgumentsSorter.getArguments (args []) method and used to set 
  * the program. 
