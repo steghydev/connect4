@@ -39,11 +39,11 @@ public class TextContainer
 	
 	public static String askForTheSecondName = "Enter the name of the second player: ";
 	
-	public static String askForTheSave = "Do you want to save the game? (0)-> No | (1)-> Si ";
+	public static String askForTheSave = "Do you want to save the game? (0)-> No | (1)-> Yes ";
 		
 	public static String askForAColumn = "Enter a column number, Q to quit: ";
 	
-	public static String askForNewGame = "Do you want start a new game? (0)-> No | (1)-> Si ";
+	public static String askForNewGame = "Do you want start a new game? (0)-> No | (1)-> Yes ";
 	
 	public static String parity = "Parity";
 	
@@ -71,6 +71,6 @@ public class TextContainer
 	
 	public static String errorAiNames = "The chosen name cannot be used.";
 
-	public static String errorMessage = "The inset value is not valid.";
+	public static String errorMessage = "The insert value is not valid.";
 	
 }
