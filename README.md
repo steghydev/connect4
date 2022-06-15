@@ -1,4 +1,4 @@
-# C0NN3CT4.
+# Connect4.
 
 Within the game it is possible to play in single player or in two players. 
 It is possible to save an unfinished game and resume it later by loading the save file.
